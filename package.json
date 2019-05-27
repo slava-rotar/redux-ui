@@ -32,7 +32,7 @@
     "chai": "^3.4.1",
     "jsdom": "^7.2.1",
     "mocha": "^2.3.4",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
     "react": "^16.0.0"
   },
   "dependencies": {
@@ -44,7 +44,7 @@
   },
   "peerDependencies": {
     "react-redux": "^6.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
     "react": "^16.0.0"
   }
 }
